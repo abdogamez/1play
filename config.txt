@@ -2,5 +2,5 @@ token=NTI4NTUxNDU4NTY0NzM0OTc2.Dwj7vw.TlVV-XBbsduCTrNWqvjv79ZVc1M
 owner=526864822348808193
 prefix= 2
 game= 2help
-stayinchannel=ezoo
-songinstatus=ezoo 
+stayinchannel=ture
+songinstatus=ture
